@@ -21,4 +21,4 @@ def romanToInteger(roman: str) -> int:
     return result
 
 
-print(romanToInteger("XXXIIV"))
+print(romanToInteger("XXXIV"))
